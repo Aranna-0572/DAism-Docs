@@ -7,8 +7,6 @@
   </a>
 </p>
 
-# DAism-Docs
-
 ## Introduction
 
 👋This is the space of the DAism's documentation. Here you will find all the necessary information to understand DAism effectively!
