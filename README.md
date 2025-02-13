@@ -13,8 +13,8 @@
 
 ## Documentation
 
-- [Getting Started](https://docs.daism.io/getting-started)
-- [API Reference](https://docs.daism.io/api-reference)
+- [Official Website](https://learn.daism.io/)
+- [Function Website](https://daism.io/)
 - [Guides](https://docs.daism.io/guides)
 - [FAQ](https://docs.daism.io/faq)
 
@@ -22,5 +22,7 @@
 
 If you have any questions, feel free to reach out to us through the following channels:
 
-- Email: [support@daism.io](mailto:support@daism.io)
+- Enki: [Post your thoughts here](https://daism.io/zh/communities/enkier?v=1.0.3)
 - Twitter: [https://x.com/0xDAism](https://x.com/0xDAism)
+- Telegram: [DAism](https://t.me/+xFDSDHguALBlZmI1)
+- Wechat: Aranna_0572
